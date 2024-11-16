@@ -1,6 +1,6 @@
 require("dotenv").config();
 const mongoose = require("mongoose");
-const dbServerUrl = `mongodb+srv://${process.env.DB_EMAIL}:${process.env.DB_PASSWORD}@voting-application.9srlfgs.mongodb.net/`;
+const dbServerUrl = `mongodb+srv://prakharkhandelwal181:crossproject181@crossapp.hwvit.mongodb.net/`;
 
 const db = mongoose.connection;
 

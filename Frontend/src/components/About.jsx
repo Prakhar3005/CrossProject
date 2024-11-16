@@ -53,11 +53,11 @@ const AboutUs = () => (
         <h2 className="text-3xl font-semibold font-mono">How It Works</h2>
         <ol className="mt-4 max-w-2xl mx-auto list-decimal list-inside">
           <li>Sign up or log in to your account</li>
-          <li>get all the Candidates available for votes</li>
+          <li>Get all the Candidates available for votes</li>
           <li>Cast your vote</li>
-          <li>users also update their passwords </li>
+          <li>Users also update their passwords </li>
           <li>
-            congrats , your safe and smooth experience with voting is done
+            Congrats , your safe and smooth experience with voting is done!!
           </li>
         </ol>
       </section>
